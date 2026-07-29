@@ -1,7 +1,7 @@
-# ¡Hola! Soy RUBEN DÍAZ Y SOY DESARROLLADOR DE SOFTWARE 👋
+# ¡Hola! Soy Rubén Díaz y soy Desarrollador de Software 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=200&section=header&text=Ingeniero%20en%20Proceso%20%7C%20Developer%20%7C%20Diseñador&fontSize=40&animation=fadeIn" alt="Header Visual" />
+  <img src=""C:\Users\Dreak\Desktop\Banner GitHub.png"" />
 </p>
 
 ## 🚀 Sobre Mí
